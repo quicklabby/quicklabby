@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/a3/24/2f/a3242f54507275923fa8d0eed140e6fb.gif" alt="quicklabby" /> </p> 
 
-<h1 align="center">Hi 👋, I'm Massimo Marinoni</h1>
+<h1 align="center">Massimo Marinoni</h1>
 <h3 align="center">A Linux/Kubernetes and an Audiophile lover!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quicklabby&label=Profile%20views&color=0e75b6&style=flat" alt="quicklabby" /> </p>
