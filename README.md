@@ -1,7 +1,8 @@
+<p align="center"> <img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="quicklabby" /> </p>
+
 <h1 align="center">Hi 👋, I'm Massimo Marinoni</h1>
 <h3 align="center">A Linux/Kubernetes and an Audiophile lover!</h3>
 
-<p align="center"> <img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="quicklabby" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quicklabby&label=Profile%20views&color=0e75b6&style=flat" alt="quicklabby" /> </p>
 
 - 🔭 I’m currently working on **My Kuberentes Homelab**
