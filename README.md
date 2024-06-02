@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="quicklabby" /> </p> 
+##<p align="center"> <img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="quicklabby" /> </p> 
 <p align="center"> <img src="[https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif](https://shopjustaudio.com/cdn/shop/products/VU-Digital-x300.gif?v=1671301051&width=300)" alt="quicklabby" /> </p>
 
 <h1 align="center">Hi 👋, I'm Massimo Marinoni</h1>
