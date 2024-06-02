@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Massimo Marinoni</h1>
 <h3 align="center">A Linux/Kubernetes lover!</h3>
 
+<p align="left"> <img src="https://i.gifer.com/origin/45/45b766c9e484b48cfafd7e4d87a68798_w200.gif" alt="quicklabby" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quicklabby&label=Profile%20views&color=0e75b6&style=flat" alt="quicklabby" /> </p>
 
 - 🔭 I’m currently working on **My Kuberentes Homelab**
