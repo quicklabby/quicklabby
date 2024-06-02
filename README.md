@@ -1,11 +1,11 @@
-<p align="center"> <img src="https://shopjustaudio.com/cdn/shop/products/VU-Digital-x300.gif?v=1671301051&width=300" alt="quicklabby" /> </p> 
+<p align="center"> <img src="https://i.pinimg.com/originals/a3/24/2f/a3242f54507275923fa8d0eed140e6fb.gif" alt="quicklabby" /> </p> 
 
 <h1 align="center">Hi 👋, I'm Massimo Marinoni</h1>
 <h3 align="center">A Linux/Kubernetes and an Audiophile lover!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quicklabby&label=Profile%20views&color=0e75b6&style=flat" alt="quicklabby" /> </p>
 
-- 🔭 I’m currently working on **My Kuberentes Homelab**
+- 🔭 I’m currently working on **My Kubernetes Homelab**
 
 - 🌱 I’m currently learning **Python programming and AWS cloud**
 
