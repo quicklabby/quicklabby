@@ -20,3 +20,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quicklabby&show_icons=true&locale=en&layout=compact" alt="quicklabby" /></p>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
