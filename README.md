@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Kubernetes Homelab**
 
-- 🌱 I’m currently learning **Python programming and AWS cloud**
+- 🌱 I’m currently learning **AWS cloud Python programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
